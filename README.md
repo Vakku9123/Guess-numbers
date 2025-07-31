@@ -1,7 +1,8 @@
 # Guess-numbers
 <!DOCTYPE html>
 <html lang="en">
-<head>
+<head <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3093297465730504"
+     crossorigin="anonymous"></script>>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <title>🎮 Guess the 4‑Digit Code</title>
